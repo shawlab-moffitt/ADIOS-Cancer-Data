@@ -1,0 +1,10 @@
+name: human_url_easy_app
+title:
+username: shawlab-moffitt
+account: shawlab-moffitt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10863921
+bundleId: 8105589
+url: https://shawlab-moffitt.shinyapps.io/human_url_easy_app/
+version: 1

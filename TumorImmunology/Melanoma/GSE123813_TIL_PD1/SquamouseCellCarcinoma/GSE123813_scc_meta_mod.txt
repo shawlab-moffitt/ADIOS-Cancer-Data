@@ -1,0 +1,79 @@
+ID	Patient	Treatment	CellType	treat_celltype	treat_celltype_response	Therapy	PriorTherapy	Response
+su010_post_CD8-act	su010	post	CD8-act	post_CD8-act	post_CD8-act_No	Pembrolizumab	-	No
+su010_post_CD8-eff	su010	post	CD8-eff	post_CD8-eff	post_CD8-eff_No	Pembrolizumab	-	No
+su010_post_CD8-ex	su010	post	CD8-ex	post_CD8-ex	post_CD8-ex_No	Pembrolizumab	-	No
+su010_post_CD8-ex-act	su010	post	CD8-ex-act	post_CD8-ex-act	post_CD8-ex-act_No	Pembrolizumab	-	No
+su010_post_CD8-mem	su010	post	CD8-mem	post_CD8-mem	post_CD8-mem_No	Pembrolizumab	-	No
+su010_post_CD8-naive	su010	post	CD8-naive	post_CD8-naive	post_CD8-naive_No	Pembrolizumab	-	No
+su010_post_Naive	su010	post	Naive	post_Naive	post_Naive_No	Pembrolizumab	-	No
+su010_post_Tfh	su010	post	Tfh	post_Tfh	post_Tfh_No	Pembrolizumab	-	No
+su010_post_Th17	su010	post	Th17	post_Th17	post_Th17_No	Pembrolizumab	-	No
+su010_post_Treg	su010	post	Treg	post_Treg	post_Treg_No	Pembrolizumab	-	No
+su010_pre_CD8-act	su010	pre	CD8-act	pre_CD8-act	pre_CD8-act_No	Pembrolizumab	-	No
+su010_pre_CD8-eff	su010	pre	CD8-eff	pre_CD8-eff	pre_CD8-eff_No	Pembrolizumab	-	No
+su010_pre_CD8-ex	su010	pre	CD8-ex	pre_CD8-ex	pre_CD8-ex_No	Pembrolizumab	-	No
+su010_pre_CD8-mem	su010	pre	CD8-mem	pre_CD8-mem	pre_CD8-mem_No	Pembrolizumab	-	No
+su010_pre_CD8-naive	su010	pre	CD8-naive	pre_CD8-naive	pre_CD8-naive_No	Pembrolizumab	-	No
+su010_pre_Naive	su010	pre	Naive	pre_Naive	pre_Naive_No	Pembrolizumab	-	No
+su010_pre_Tfh	su010	pre	Tfh	pre_Tfh	pre_Tfh_No	Pembrolizumab	-	No
+su010_pre_Th17	su010	pre	Th17	pre_Th17	pre_Th17_No	Pembrolizumab	-	No
+su010_pre_Treg	su010	pre	Treg	pre_Treg	pre_Treg_No	Pembrolizumab	-	No
+su011_post_CD8-act	su011	post	CD8-act	post_CD8-act	post_CD8-act_Yes	Cemiplimab	Radiation	Yes
+su011_post_CD8-eff	su011	post	CD8-eff	post_CD8-eff	post_CD8-eff_Yes	Cemiplimab	Radiation	Yes
+su011_post_CD8-ex	su011	post	CD8-ex	post_CD8-ex	post_CD8-ex_Yes	Cemiplimab	Radiation	Yes
+su011_post_CD8-ex-act	su011	post	CD8-ex-act	post_CD8-ex-act	post_CD8-ex-act_Yes	Cemiplimab	Radiation	Yes
+su011_post_CD8-mem	su011	post	CD8-mem	post_CD8-mem	post_CD8-mem_Yes	Cemiplimab	Radiation	Yes
+su011_post_CD8-naive	su011	post	CD8-naive	post_CD8-naive	post_CD8-naive_Yes	Cemiplimab	Radiation	Yes
+su011_post_Naive	su011	post	Naive	post_Naive	post_Naive_Yes	Cemiplimab	Radiation	Yes
+su011_post_Tfh	su011	post	Tfh	post_Tfh	post_Tfh_Yes	Cemiplimab	Radiation	Yes
+su011_post_Th17	su011	post	Th17	post_Th17	post_Th17_Yes	Cemiplimab	Radiation	Yes
+su011_post_Treg	su011	post	Treg	post_Treg	post_Treg_Yes	Cemiplimab	Radiation	Yes
+su011_pre_CD8-act	su011	pre	CD8-act	pre_CD8-act	pre_CD8-act_Yes	Cemiplimab	Radiation	Yes
+su011_pre_CD8-eff	su011	pre	CD8-eff	pre_CD8-eff	pre_CD8-eff_Yes	Cemiplimab	Radiation	Yes
+su011_pre_CD8-ex	su011	pre	CD8-ex	pre_CD8-ex	pre_CD8-ex_Yes	Cemiplimab	Radiation	Yes
+su011_pre_CD8-ex-act	su011	pre	CD8-ex-act	pre_CD8-ex-act	pre_CD8-ex-act_Yes	Cemiplimab	Radiation	Yes
+su011_pre_CD8-mem	su011	pre	CD8-mem	pre_CD8-mem	pre_CD8-mem_Yes	Cemiplimab	Radiation	Yes
+su011_pre_CD8-naive	su011	pre	CD8-naive	pre_CD8-naive	pre_CD8-naive_Yes	Cemiplimab	Radiation	Yes
+su011_pre_Naive	su011	pre	Naive	pre_Naive	pre_Naive_Yes	Cemiplimab	Radiation	Yes
+su011_pre_Tfh	su011	pre	Tfh	pre_Tfh	pre_Tfh_Yes	Cemiplimab	Radiation	Yes
+su011_pre_Th17	su011	pre	Th17	pre_Th17	pre_Th17_Yes	Cemiplimab	Radiation	Yes
+su011_pre_Treg	su011	pre	Treg	pre_Treg	pre_Treg_Yes	Cemiplimab	Radiation	Yes
+su013_post_CD8-eff	su013	post	CD8-eff	post_CD8-eff	post_CD8-eff_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_CD8-ex	su013	post	CD8-ex	post_CD8-ex	post_CD8-ex_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_CD8-ex-act	su013	post	CD8-ex-act	post_CD8-ex-act	post_CD8-ex-act_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_CD8-mem	su013	post	CD8-mem	post_CD8-mem	post_CD8-mem_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_CD8-naive	su013	post	CD8-naive	post_CD8-naive	post_CD8-naive_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_Naive	su013	post	Naive	post_Naive	post_Naive_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_Tfh	su013	post	Tfh	post_Tfh	post_Tfh_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_Th17	su013	post	Th17	post_Th17	post_Th17_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_post_Treg	su013	post	Treg	post_Treg	post_Treg_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_CD8-act	su013	pre	CD8-act	pre_CD8-act	pre_CD8-act_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_CD8-eff	su013	pre	CD8-eff	pre_CD8-eff	pre_CD8-eff_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_CD8-ex	su013	pre	CD8-ex	pre_CD8-ex	pre_CD8-ex_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_CD8-ex-act	su013	pre	CD8-ex-act	pre_CD8-ex-act	pre_CD8-ex-act_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_CD8-mem	su013	pre	CD8-mem	pre_CD8-mem	pre_CD8-mem_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_CD8-naive	su013	pre	CD8-naive	pre_CD8-naive	pre_CD8-naive_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_Naive	su013	pre	Naive	pre_Naive	pre_Naive_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_Tfh	su013	pre	Tfh	pre_Tfh	pre_Tfh_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_Th17	su013	pre	Th17	pre_Th17	pre_Th17_No	Pembrolizumab	Radiation, Cetuximab	No
+su013_pre_Treg	su013	pre	Treg	pre_Treg	pre_Treg_No	Pembrolizumab	Radiation, Cetuximab	No
+su014_post_CD8-act	su014	post	CD8-act	post_CD8-act	post_CD8-act_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_CD8-eff	su014	post	CD8-eff	post_CD8-eff	post_CD8-eff_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_CD8-ex	su014	post	CD8-ex	post_CD8-ex	post_CD8-ex_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_CD8-ex-act	su014	post	CD8-ex-act	post_CD8-ex-act	post_CD8-ex-act_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_CD8-mem	su014	post	CD8-mem	post_CD8-mem	post_CD8-mem_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_CD8-naive	su014	post	CD8-naive	post_CD8-naive	post_CD8-naive_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_Naive	su014	post	Naive	post_Naive	post_Naive_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_Tfh	su014	post	Tfh	post_Tfh	post_Tfh_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_Th17	su014	post	Th17	post_Th17	post_Th17_No	Cemiplimab	Radiation, Capecitabine	No
+su014_post_Treg	su014	post	Treg	post_Treg	post_Treg_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_CD8-act	su014	pre	CD8-act	pre_CD8-act	pre_CD8-act_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_CD8-eff	su014	pre	CD8-eff	pre_CD8-eff	pre_CD8-eff_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_CD8-ex	su014	pre	CD8-ex	pre_CD8-ex	pre_CD8-ex_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_CD8-ex-act	su014	pre	CD8-ex-act	pre_CD8-ex-act	pre_CD8-ex-act_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_CD8-mem	su014	pre	CD8-mem	pre_CD8-mem	pre_CD8-mem_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_CD8-naive	su014	pre	CD8-naive	pre_CD8-naive	pre_CD8-naive_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_Naive	su014	pre	Naive	pre_Naive	pre_Naive_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_Tfh	su014	pre	Tfh	pre_Tfh	pre_Tfh_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_Th17	su014	pre	Th17	pre_Th17	pre_Th17_No	Cemiplimab	Radiation, Capecitabine	No
+su014_pre_Treg	su014	pre	Treg	pre_Treg	pre_Treg_No	Cemiplimab	Radiation, Capecitabine	No
