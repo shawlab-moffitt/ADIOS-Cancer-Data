@@ -1,0 +1,23 @@
+SampleID	Study	MajorCellType	Major Lineage	Cell Family	GEOName	Organism	GeneticBackground	Sex	AGE	Tissue Source	Exclusion Marker	Treatment	CellType	Phenotype_Marker	Separation Method
+GSM3090346	GSE112876	B cells	B lineage		B.IFNg.2hr.Sp#3	Mouse	B6	Male	6 WEEKS	Spleen	TCRB-			CD19+ IgM+	FACSAria
+GSM3090347	GSE112876	B cells	B lineage		B.IFNg.2hr.Sp#3_dup	Mouse	B6	Male	6 WEEKS	Spleen	TCRB-			CD19+ IgM+	FACSAria
+GSM3090348	GSE112876	B cells	B lineage		B1a.IFNg.2hr.PC#2	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	NA			CD19+ CD43+ CD5+	FACSAria
+GSM3090349	GSE112876	B cells	B lineage		B1a.IFNg.2hr.PC#3	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	NA			CD19+ CD43+ CD5+	FACSAria
+GSM3090350	GSE112876	Dendritic Cells	Myeloid		DC.IFNg.2hr.Sp#1	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD11c+ MHCII+ Flt3+	FACSAria
+GSM3090351	GSE112876	Dendritic Cells	Myeloid		DC.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD11c+ MHCII+ Flt3+	FACSAria
+GSM3090352	GSE112876	Granulocytes	Myeloid		GN.IFNg.2hr.Sp#1	Mouse	B6	Male	6 WEEKS	Spleen	NA			Ly6G+	FACSAria
+GSM3090353	GSE112876	Granulocytes	Myeloid		GN.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	NA			Ly6G+	FACSAria
+GSM3090354	GSE112876	Macrophages	Myeloid		MF.IFNg.2hr.PC#2	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	NA			F4/80+ ICAM2+	FACSAria
+GSM3090355	GSE112876	Macrophages	Myeloid		MF.IFNg.2hr.PC#3	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	NA			F4/80+ ICAM2+	FACSAria
+GSM3090356	GSE112876	NK cells	T lineage		NK.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	TCRB-			NK1.1+	FACSAria
+GSM3090357	GSE112876	NK cells	T lineage		NK.IFNg.2hr.Sp#3	Mouse	B6	Male	6 WEEKS	Spleen	TCRB-			NK1.1+	FACSAria
+GSM3090358	GSE112876	NKT cells	T lineage		NKT.IFNg.2hr.Sp#1	Mouse	B6	Male	6 WEEKS	Spleen	NA			NK1.1+ TCRB+	FACSAria
+GSM3090359	GSE112876	NKT cells	T lineage		NKT.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	NA			NK1.1+ TCRB+	FACSAria
+GSM3090360	GSE112876	CD4 T cells	T lineage		T4.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD4+ TCRB+	FACSAria
+GSM3090361	GSE112876	CD4 T cells	T lineage		T4.IFNg.2hr.Sp#3	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD4+ TCRB+	FACSAria
+GSM3090362	GSE112876	CD8 T cells	T lineage		T8.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD8+ TCRB+	FACSAria
+GSM3090363	GSE112876	CD8 T cells	T lineage		T8.IFNg.2hr.Sp#3	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD8+ TCRB+	FACSAria
+GSM3090364	GSE112876	gd T cells	T lineage		Tgd.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	TCRB-			TCRgd+	FACSAria
+GSM3090365	GSE112876	gd T cells	T lineage		Tgd.IFNg.2hr.Sp#3	Mouse	B6	Male	6 WEEKS	Spleen	TCRB-			TCRgd+	FACSAria
+GSM3090366	GSE112876	Treg cells	T lineage		Treg.IFNg.2hr.Sp#2	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD4+ TCRB+ CD25+	FACSAria
+GSM3090367	GSE112876	Treg cells	T lineage		Treg.IFNg.2hr.Sp#3	Mouse	B6	Male	6 WEEKS	Spleen	NA			CD4+ TCRB+ CD25+	FACSAria

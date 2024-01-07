@@ -1,0 +1,195 @@
+SampleID	Study	MajorCellType	Major Lineage	Cell Family	GEOName	Organism	GeneticBackground	Sex	AGE	Tissue Source	Exclusion Marker	Treatment	CellType	Phenotype_Marker	Separation Method
+GSM1282081	GSE37448	B cells	B lineage		B.Mem.Sp.v2#1	Mouse	C57BL/6J	Male	15 WEEKS	Spleen	CD3, Ter119, Ly6c, CD11b, GR-1	NA		CD19+,CD24+,CD23+,Kappa+,Lambda+,AA4.1-,IgM-,IgD-	Dissection / Trimming
+GSM1282082	GSE37448	B cells	B lineage		B.Mem.Sp.v2#3	Mouse	C57BL/6J	Male	15 WEEKS	Spleen	CD3, Ter119, Ly6c, CD11b, GR-1	NA		CD19+CD24+CD23+Kappa+Lambda+AA4.1-IgM-IgD-	Dissection / Trimming
+GSM1282083	GSE37448	B cells	B lineage		B1a.Sp.v2#6	Mouse	NA	Male	9 WEEKS	Spleen	NULL	NA		CD4+ CD8+ CD69+	FACSAria
+GSM2112407	GSE37448	B cells	B lineage		BA.Bl#1	Mouse	C57/Bl6	Male	6 WEEKS	Blood	CD4 CD8 C19 NK1.1	NA		CD49b+ FcER1a+	FACSAria
+GSM2112408	GSE37448	B cells	B lineage		BA.Bl#2	Mouse	C57/Bl6	Male	6 WEEKS	Blood	CD117- CD4- CD8- CD19- NK1.1-	NA		FcER1a+ CD49b+	FACSAria
+GSM2112409	GSE37448	B cells	B lineage		BA.Bl#3	Mouse	C57/Bl6	Male	6 WEEKS	Blood	CD117- CD4- CD8- CD19- NK1.1-	NA		FcER1a+ CD49b+	FACSAria
+GSM2112410	GSE37448	B cells	B lineage		BA.Sp#1	Mouse	C57	Male	6 WEEKS	Spleen	CD3, CD19, CD11c	NA		CD49b+ FcER1a+	FACSAria
+GSM2112411	GSE37448	B cells	B lineage		BA.Sp#3	Mouse	C57	Male	6 WEEKS	Blood	CD3, CD19, CD11c	NA		CD49b+ FcER1a+	FACSAria
+GSM2112412	GSE37448	B cells	B lineage		BA.Sp#4	Mouse	C57/Bl6	Male	6 WEEKS	Spleen	CD4, CD8, CD19, NK1.1, GR1	NA		FcER1a+ CD49b+	FACSAria
+GSM1358373	GSE37448	CD4 T cells	T lineage		CD4.1h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358374	GSE37448	CD4 T cells	T lineage		CD4.1h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358375	GSE37448	CD4 T cells	T lineage		CD4.24h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358376	GSE37448	CD4 T cells	T lineage		CD4.24h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358377	GSE37448	CD4 T cells	T lineage		CD4.48h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358378	GSE37448	CD4 T cells	T lineage		CD4.48h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358379	GSE37448	CD4 T cells	T lineage		CD4.5h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358380	GSE37448	CD4 T cells	T lineage		CD4.5h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358381	GSE37448	CD4 T cells	T lineage		CD4.96h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358382	GSE37448	CD4 T cells	T lineage		CD4.CTR.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358383	GSE37448	CD4 T cells	T lineage		CD4.CTR.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD4+ CD8- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358384	GSE37448	CD8 T cells	T lineage		CD8.1h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358385	GSE37448	CD8 T cells	T lineage		CD8.1h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358386	GSE37448	CD8 T cells	T lineage		CD8.24h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358387	GSE37448	CD8 T cells	T lineage		CD8.24h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358388	GSE37448	CD8 T cells	T lineage		CD8.48h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358389	GSE37448	CD8 T cells	T lineage		CD8.48h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358390	GSE37448	CD8 T cells	T lineage		CD8.5h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358391	GSE37448	CD8 T cells	T lineage		CD8.5h.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358392	GSE37448	CD8 T cells	T lineage		CD8.96h.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358393	GSE37448	CD8 T cells	T lineage		CD8.CTR.LN#1	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1358394	GSE37448	CD8 T cells	T lineage		CD8.CTR.LN#2	Mouse	C57BL/6	Male	6 WEEKS	Lymph Node	CD11c/19/25/49b/Gr1/Ter119-	Cultured with antiCD3 CD28 beads and collected at various time points		CD8+ CD4- TCR+ CD25- CD62Lhi CD44 Lo	Dissection / Trimming
+GSM1282087	GSE37448	Dendritic cells	Myeloid		DC.11b-.AT.v2#1	Mouse	C57BL/6J	Male	45 DAYS	Fat (Visceral)	B220 SiglecF CD64 Mertk	NA		CD45+ MHCIIhi CD11c+	FACSAria
+GSM1282088	GSE37448	Dendritic cells	Myeloid		DC.11b-.AT.v2#3	Mouse	C57BL/6J	Male	50 DAYS	Fat (Visceral)	B220 SiglecF CD64 Mertk	NA		CD45+ MHCIIhi CD11c+	FACSAria
+GSM1282084	GSE37448	Dendritic cells	Myeloid		DC.11b+.AT.v2#2	Mouse	N/A	Male	48 DAYS	Fat (Visceral)	B220 SiglecF CD64 Mertk	NA		CD45+ MHCIIhi CD11c+ CD11b+	FACSAria
+GSM1282085	GSE37448	Dendritic cells	Myeloid		DC.11b+.AT.v2#3	Mouse	N/A	Male	50 DAYS	Fat (Visceral)	B220 SiglecF CD64 Mertk	NA		CD45+ MHCIIhi CD11c+ CD11b+	FACSAria
+GSM1282086	GSE37448	Dendritic cells	Myeloid		DC.11b+.AT.v2#4	Mouse	N/A	Male	52 DAYS	Fat (Visceral)	B220 SiglecF CD64 Mertk	NA		CD45+ MHCIIhi CD11c+ CD11b+	FACSAria
+GSM1282089	GSE37448	Stromal cells	Stroma		DN.SLN.CFA.d6.v2#1	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-  gp38-  CD31-  CD44lo	NA		NULL	Dissection / Trimming
+GSM1282090	GSE37448	Stromal cells	Stroma		DN.SLN.CFA.d6.v2#2	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-  gp38-  CD31-  CD44lo	NA		NULL	Dissection / Trimming
+GSM1282091	GSE37448	Stromal cells	Stroma		DN.SLN.v2#1	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-  gp38-  CD31-  CD44lo	NA		NULL	Dissection / Trimming
+GSM1282092	GSE37448	Stromal cells	Stroma		DN.SLN.v2#2	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-  gp38-  CD31-  CD44lo	NA		NULL	Dissection / Trimming
+GSM1282093	GSE37448	Eosinophils	Myeloid		EO.AT.v2#1	Mouse	C57BL/6J	Male	45 DAYS	Fat (Visceral)	FSC B220	NA		CD11b+ SiglecF+	FACSAria
+GSM1282094	GSE37448	Eosinophils	Myeloid		Eo.BL.v2#2	Mouse	C57BL/6J	Male	44 DAYS	Blood	MHCII, CD4, B220	NA		SSChi SiglecF+	FACSAria
+GSM1282095	GSE37448	Eosinophils	Myeloid		Eo.BL.v2#3	Mouse	C57BL/6J	Male	48 DAYS	Blood	MHCII, CD4, B220	NA		SSChi SiglecF+	FACSAria
+GSM1282096	GSE37448	Eosinophils	Myeloid		Eo.BL.v2#5	Mouse	C57BL/6	Male	50 DAYS	Blood	CD4, B220	NA		SSChi SiglecF+	FACSAria
+GSM2112413	GSE37448	Stromal cells	Stroma		Ep.5wk.MEC.Sca1+.Th#1	Mouse	C57BL/6	Male	5 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112414	GSE37448	Stromal cells	Stroma		Ep.5wk.MEC.Sca1+.Th#2	Mouse	C57BL/6	Male	5 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112415	GSE37448	Stromal cells	Stroma		Ep.5wk.MEChi.Th#2	Mouse	C57BL/6	Male	5 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112416	GSE37448	Stromal cells	Stroma		Ep.5wk.MEClo.Th#1	Mouse	C57BL/6	Male	5 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112417	GSE37448	Stromal cells	Stroma		Ep.5wk.MEClo.Th#2	Mouse	C57BL/6	Male	5 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112418	GSE37448	Stromal cells	Stroma		Ep.8wk.CEC.Sca1+.Th#1	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112419	GSE37448	Stromal cells	Stroma		Ep.8wk.CEC.Sca1+.Th#2	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112420	GSE37448	Stromal cells	Stroma		Ep.8wk.CEChi.Th#1	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112421	GSE37448	Stromal cells	Stroma		Ep.8wk.CEChi.Th#2	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112422	GSE37448	Stromal cells	Stroma		Ep.8wk.MEChi.Th#1	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112423	GSE37448	Stromal cells	Stroma		Ep.8wk.MEChi.Th#2	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112424	GSE37448	Stromal cells	Stroma		Ep.8wk.MEClo.Th#1	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM2112425	GSE37448	Stromal cells	Stroma		Ep.8wk.MEClo.Th#2	Mouse	C57BL/6	Male	8 WEEKS	Thymus	PI- CD45-	NA		EpCAM+ Ly51+ MHCII+ Sca1+	FACSAria
+GSM1282097	GSE37448	Stromal cells	Stroma		FRC.Cad11.WT.v2#1	Mouse	C57BL/6J 129SJL Cadherin 11 WT	Male	6 WEEKS	Lymph Node (Subcutaneous)	CD45-  Ter119-  CD31-	NA		gp38+  CD140a+	Dissection / Trimming
+GSM1282098	GSE37448	Stromal cells	Stroma		FRC.SLN.CFA.d6.v2#1	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-  CD31-	NA		gp38+  CD140a+	Dissection / Trimming
+GSM1282099	GSE37448	Stromal cells	Stroma		FRC.SLN.CFA.d6.v2#2	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-  CD31-	NA		gp38+  CD140a+	Dissection / Trimming
+GSM1282100	GSE37448	Stromal cells	Stroma		FRC.SLN.v2#1	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	CD31-  TER119-  CD45-	NA		gp38+  CD140a+	Dissection / Trimming
+GSM1282101	GSE37448	Stromal cells	Stroma		FRC.SLN.v2#2	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	CD31-  TER119-  CD45-	NA		gp38+  CD140a+	Dissection / Trimming
+GSM1282102	GSE37448	Granulocytes	Myeloid		GN.Bl.v2#4	Mouse	C57Bl/6J	Male	7 WEEKS	Blood	B220, CD4	NA		SSChi Ly6Ghi	FACSAria
+GSM1282103	GSE37448	Granulocytes	Myeloid		GN.Bl.v2#5	Mouse	C57Bl/6J	Male	6 WEEKS	Blood	B220, CD4	NA		SSChi Ly6Ghi	FACSAria
+GSM1282104	GSE37448	Granulocytes	Myeloid		GN.Bl.v2#6	Mouse	C57Bl/6J	Male	43 DAYS	Blood	B220, CD4	NA		SSChi Ly6Ghi	FACSAria
+GSM1282105	GSE37448	Granulocytes	Myeloid		GN.Bl.v2#7	Mouse	C57Bl/6J	Male	48 DAYS	Blood	B220, CD4	NA		SSChi Ly6Ghi	FACSAria
+GSM1585318	GSE37448	ILC	Innate Lymphoid		ILC1.CD127+.SI#1	Mouse	B6 RORgt-GFP	Male	52 DAYS	Small Intestine (Lamina Propria)	CD3/CD19/7aad	NA		CD45+ NKp46+ RORgt- CD127+ NK1.1+	FACSAria
+GSM1585319	GSE37448	ILC	Innate Lymphoid		ILC1.CD127+.SI#3	Mouse	B6 RORgt-GFP	Male	46 DAYS	Small Intestine (Lamina Propria)	CD3/CD19/7aad	NA		CD45+ NKp46+ RORgt- CD127+ NK1.1+	FACSAria
+GSM1585312	GSE37448	ILC	Innate Lymphoid		ILC1.CD127+.Sp#1	Mouse	C57BL/6	Male	10 WEEKS	Spleen	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ CD27+ CD127+	FACSAria
+GSM1585313	GSE37448	ILC	Innate Lymphoid		ILC1.CD127+.Sp#2	Mouse	C57BL/6	Male	9 WEEKS	Spleen	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ CD27+ CD127+	FACSAria
+GSM1585314	GSE37448	ILC	Innate Lymphoid		ILC1.CD127+.Sp#3	Mouse	C57BL/6	Male	7 WEEKS	Spleen	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ CD27+ CD127+	FACSAria
+GSM1585315	GSE37448	ILC	Innate Lymphoid		ILC1.CD49b-.Lv#1	Mouse	C57BL/6	Male	10 WEEKS	Liver	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ DX5- TRAIL+	FACSAria
+GSM1585316	GSE37448	ILC	Innate Lymphoid		ILC1.CD49b-.Lv#2	Mouse	C57BL/6	Male	9 WEEKS	Liver	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ DX5- TRAIL+	FACSAria
+GSM1585317	GSE37448	ILC	Innate Lymphoid		ILC1.CD49b-.Lv#3	Mouse	C57BL/6	Male	10 WEEKS	Liver	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ DX5- TRAIL+	FACSAria
+GSM1585320	GSE37448	ILC	Innate Lymphoid		ILC2.SI#2	Mouse	C57BL/6	Male	7 WEEKS	Small Intestine (Lamina Propria)	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- CD127+ Sca1+ ST2+ KLRG1+	FACSAria
+GSM1585321	GSE37448	ILC	Innate Lymphoid		ILC2.SI#3	Mouse	C57BL/6	Male	7 WEEKS	Small Intestine (Lamina Propria)	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- CD127+ Sca1+ ST2+ KLRG1+	FACSAria
+GSM1585326	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46-.4-.SI#4	Mouse	C57BL/6	Male	8 WEEKS	Small Intestine (Lamina Propria)	CD45+CD19-CD3-RORgt+	NA		NKp46- CD4-	FACSAria
+GSM1585327	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46-.4-.SI#5	Mouse	C57BL/6	Male	8 WEEKS	Small Intestine (Lamina Propria)	CD45+CD19-CD3-RORgt+	NA		NKp46- CD4-	FACSAria
+GSM1585328	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46-.4-.SI#6	Mouse	C57BL/6	Male	8 WEEKS	Small Intestine (Lamina Propria)	CD45+CD19-CD3-RORgt+	NA		NKp46- CD4-	FACSAria
+GSM1585329	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46-.4+.SI#1	Mouse	C57BL/6	Male	8 WEEKS	Small Intestine (Lamina Propria)	CD45+CD19-CD3-RORgt+	NA		NKp46- CD4+	FACSAria
+GSM1585325	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46-.4+.SI#4	Mouse	C57BL/6	Male	8 WEEKS	Small Intestine (Lamina Propria)	CD45+CD19-CD3-RORgt+	NA		NKp46- CD4+	FACSAria
+GSM1585322	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46+.Rorgthi.SI#1	Mouse	B6 RORgt-GFP	Male	52 DAYS	Small Intestine (Lamina Propria)	CD3/CD19/7aad	NA		CD45+ NKp46+ RORgthi	FACSAria
+GSM1585323	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46+.Rorgthi.SI#2	Mouse	B6 RORgt-GFP	Male	52 DAYS	Small Intestine (Lamina Propria)	CD3/CD19/7aad	NA		CD45+ NKp46+ RORgthi	FACSAria
+GSM1585324	GSE37448	ILC	Innate Lymphoid		ILC3.NKp46+.Rorgthi.SI#3	Mouse	B6 RORgt-GFP	Male	46 DAYS	Small Intestine (Lamina Propria)	CD3/CD19/7aad	NA		CD45+ NKp46+ RORgthi	FACSAria
+GSM1282106	GSE37448	Stromal cells	Stroma		LEC.SLN.CFA.d6.v2#2	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-	NA		gp38+  CD31+	Dissection / Trimming
+GSM1282107	GSE37448	Stromal cells	Stroma		LEC.SLN.v2#1	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-	NA		gp38+  CD31+	Dissection / Trimming
+GSM1282108	GSE37448	Stromal cells	Stroma		LEC.SLN.v2#2	Mouse	C57BL/6J	Male	6 WEEKS	Lymph Node (Subcutaneous)	TER119-  CD45-	NA		gp38+  CD31+	Dissection / Trimming
+GSM2112443	GSE37448	Mast cells	Myeloid		MC.digest.PC#1	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	TO_FILL_IN	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112444	GSE37448	Mast cells	Myeloid		MC.digest.PC#4	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	TO_FILL_IN	NA		IgE/FcER1a+ CD117+ CD45+ CD4- CD8- CD19- CD11b/c-	FACSAria
+GSM2112445	GSE37448	Mast cells	Myeloid		MC.digest.PC#5	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	TO_FILL_IN	NA		IgE/FcER1a+ CD117+ CD45+ CD4- CD8- CD19- CD11b/c-	FACSAria
+GSM2112426	GSE37448	Mast cells	Myeloid		MC.Es#1	Mouse	C57/Bl6	Male	6 WEEKS	Whole Tissue	CD11b CD11c CD4 CD8 CD19	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112427	GSE37448	Mast cells	Myeloid		MC.Es#2	Mouse	C57/B6	Male	6 WEEKS	Whole Tissue	CD4 CD8 CD19 CD11b CD11c	NA		IgE/FcER1a+ CD117+ CD45+ CD4/8/19- CD11b/c-	FACSAria
+GSM2112428	GSE37448	Mast cells	Myeloid		MC.PC#0	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	TO_FILL_IN	NA		Mast+	Dissection / Trimming
+GSM2112429	GSE37448	Mast cells	Myeloid		MC.PC#13	Mouse	B6	Male	6 WEEKS	Peritoneal Cavity	TO_FILL_IN	NA		IgE/FcER1a+ CD117+ CD45+ CD4- CD8- CD19- CD11b/c-	FACSAria
+GSM2112430	GSE37448	Mast cells	Myeloid		MC.PC#3	Mouse	C57/Bl6	Male	6 WEEKS	Peritoneal Cavity	CD11c, CD11b, CD4, CD8, CD19	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112431	GSE37448	Mast cells	Myeloid		MC.PC#4	Mouse	C57/Bl6	Male	6 WEEKS	Peritoneal Cavity	NULL	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112432	GSE37448	Mast cells	Myeloid		MC.PC#5	Mouse	C57/Bl6	Male	6 WEEKS	Blood	NULL	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112433	GSE37448	Mast cells	Myeloid		MC.PC#6	Mouse	C57/Bl6	Male	6 WEEKS	Blood	NULL	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112434	GSE37448	Mast cells	Myeloid		MC.Sk#2	Mouse	C57/Bl6	Male	6 WEEKS	Skin	NULL	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112435	GSE37448	Mast cells	Myeloid		MC.Sk#3	Mouse	C57/Bl6	Male	6 WEEKS	Skin	NULL	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112436	GSE37448	Mast cells	Myeloid		MC.Sk#4	Mouse	C57/Bl6	Male	6 WEEKS	Skin	NULL	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112437	GSE37448	Mast cells	Myeloid		MC.To#1	Mouse	C57/Bl6	Male	6 WEEKS	Muscle	CD11b CD11c CD4 CD8 CD19	NA		FcER1a+ CD117+ CD45+	FACSAria
+GSM2112438	GSE37448	Mast cells	Myeloid		MC.To#2	Mouse	C57/Bl6	Male	6 WEEKS	Muscle	NULL	NA		FcER1a+ CD117+ CD45+	FACSAria
+GSM2112439	GSE37448	Mast cells	Myeloid		MC.To#5	Mouse	C57/B6	Male	6 WEEKS	Whole Tissue	CD4 CD8 CD19 CD11b CD11c	NA		IgE/FcER1a+ CD117+ CD45+ CD4/8/19- CD11b/c-	FACSAria
+GSM2112440	GSE37448	Mast cells	Myeloid		MC.Tr#1	Mouse	C57/Bl6	Male	6 WEEKS	Whole Tissue	CD11b CD11c CD4 CD8 CD19	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112441	GSE37448	Mast cells	Myeloid		MC.Tr#2	Mouse	C57/Bl6	Male	6 WEEKS	Whole Tissue	CD11b CD11c CD4 CD8 CD19	NA		CD45+ CD117+ FcER1a+	FACSAria
+GSM2112442	GSE37448	Mast cells	Myeloid		MC.Tr#3	Mouse	C57/B6	Male	6 WEEKS	Whole Tissue	CD4 CD8 CD19 CD11b CD11c	NA		IgE/FcER1a+ CD117+ CD45+ CD4/8/19- CD11b/c-	FACSAria
+GSM2112452	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP-.Adult#6	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP-	MoFlo Sorter
+GSM2112453	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP-.Adult#7	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP-	MoFlo Sorter
+GSM2112454	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP-.Adult#8	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP-	MoFlo Sorter
+GSM2112449	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP+.Adult.KO#1	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP+	MoFlo Sorter
+GSM2112450	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP+.Adult.KO#2	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP+	MoFlo Sorter
+GSM2112451	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP+.Adult.KO#3	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP+	MoFlo Sorter
+GSM2112446	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP+.Adult#6	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP+	MoFlo Sorter
+GSM2112447	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP+.Adult#7	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP+	MoFlo Sorter
+GSM2112448	GSE37448	Medullary thymic epithelial cells	Stroma		MEChi.GFP+.Adult#8	Mouse	C57BL/6	Mixed	5 WEEKS	Thymic Medulla	CD45- Ly51-	NA		CD45- Ly51- MHCIIhi GFP+	MoFlo Sorter
+GSM1136119	GSE37448	Macrophages	Myeloid		MF.11c-11b+.Lu#1	Mouse	C57Bl/6	NA	6 WEEKS	Lung	NULL	NA		MertK+ CD64+ CD11c- CD11b+	FACSAria
+GSM1136120	GSE37448	Macrophages	Myeloid		MF.11c-11b+.Lu#2	Mouse	C57Bl/6	NA	6 WEEKS	Lung	NULL	NA		MertK+ CD64+ CD11c- CD11b+	Dissection/trimming
+GSM1136121	GSE37448	Macrophages	Myeloid		MF.11c-11b+.Lu#3	Mouse	C57Bl/6	NA	6 WEEKS	Lung	NULL	NA		MertK+ CD64+ CD11c- CD11b+	Dissection/trimming
+GSM2112455	GSE37448	Macrophages	Myeloid		MF.480hi.LV.Naive#1	Mouse	C57BL/6	Male	6 WEEKS	Liver	NULL	NA		PI- CD45+ CD64+ Mertk+ F480hi	FACSAria
+GSM2112456	GSE37448	Macrophages	Myeloid		MF.480hi.LV.Naive#2	Mouse	C57BL/6	Male	6 WEEKS	Liver	PI	NA		CD45+ Mertk+ CD64+ F480hi	FACSAria
+GSM2112457	GSE37448	Macrophages	Myeloid		MF.480hi.LV.Naive#3	Mouse	C57BL/6	Male	6 WEEKS	Liver	PI	NA		CD45+ Mertk+ CD64+ F480hi	FACSAria
+GSM2112458	GSE37448	Macrophages	Myeloid		MF.480int.LV.Naive#1	Mouse	C57BL/6	Male	6 WEEKS	Liver	NULL	NA		PI- CD45+ CD64+ Mertk+ F480lo	FACSAria
+GSM2112459	GSE37448	Macrophages	Myeloid		MF.480int.LV.Naive#2	Mouse	C57BL/6	Male	6 WEEKS	Liver	NULL	NA		CD45+ Mertk+ CD64+ F480lo	FACSAria
+GSM2112460	GSE37448	Macrophages	Myeloid		MF.480int.LV.Naive#3	Mouse	C57BL/6	Male	6 WEEKS	Liver	NULL	NA		CD45+ Mertk+ CD64+ F480lo	FACSAria
+GSM1136122	GSE37448	Macrophages	Myeloid		MF.Alv.Lu#1	Mouse	C57BL/6	NA	6 WEEKS	Lung	NULL	NA		MertK+ CD64+ CD11c+ CD11b-	FACSAria
+GSM1136123	GSE37448	Macrophages	Myeloid		MF.Alv.Lu#2	Mouse	C57BL/6	NA	6 WEEKS	Lung	NULL	NA		MertK+ CD64+ CD11c+ CD11b-	FACSAria
+GSM1136124	GSE37448	Macrophages	Myeloid		MF.Alv.Lu#3	Mouse	C57BL/6	NA	6 WEEKS	Lung	NULL	NA		MertK+ CD64+ CD11c+ CD11b-	FACSAria
+GSM1282109	GSE37448	Macrophages	Myeloid		MF.AT.v2#1	Mouse	C57BL/6J	Male	45 DAYS	Fat (Visceral)	B220 SiglecF	NA		CD45+ CD64+ Mertk+	FACSAria
+GSM1282110	GSE37448	Macrophages	Myeloid		MF.AT.v2#3	Mouse	C57BL/6J	Male	50 DAYS	Fat (Visceral)	B220 SiglecF	NA		CD45+ CD64+ Mertk+	FACSAria
+GSM1282111	GSE37448	Macrophages	Myeloid		MF.AT.v2#4	Mouse	C57BL/6J	Male	52 DAYS	Fat (Visceral)	B220 SiglecF	NA		CD45+ CD64+ Mertk+	FACSAria
+GSM1308353	GSE37448	Macrophages	Myeloid		MF.F480hi.ctrl.PC#1	Mouse	mixed background	Male	9 WEEKS	Peritoneal Cavity	NULL	NA		F4/80hi ICAM2hi CD11bhi	FACSAria
+GSM1308354	GSE37448	Macrophages	Myeloid		MF.F480hi.ctrl.PC#2	Mouse	mixed background	Male	9 WEEKS	Peritoneal Cavity	NULL	NA		F4/80hi ICAM2hi CD11bhi	FACSAria
+GSM1308355	GSE37448	Macrophages	Myeloid		MF.F480hi.ctrl.PC#3	Mouse	mixed background	Male	9 WEEKS	Peritoneal Cavity	NULL	NA		F4/80hi ICAM2hi CD11bhi	FACSAria
+GSM1308350	GSE37448	Macrophages	Myeloid		MF.F480hi.Gata6ko.PC#1	Mouse	mixed background	Male	9 WEEKS	Peritoneal Cavity	NULL	NA		F4/80hi ICAM2hi CD11bhi	FACSAria
+GSM1308351	GSE37448	Macrophages	Myeloid		MF.F480hi.Gata6ko.PC#2	Mouse	mixed background	Male	9 WEEKS	Peritoneal Cavity	NULL	NA		F4/80hi ICAM2hi CD11bhi	FACSAria
+GSM1308352	GSE37448	Macrophages	Myeloid		MF.F480hi.Gata6ko.PC#3	Mouse	mixed background	Male	9 WEEKS	Peritoneal Cavity	NULL	NA		F4/80hi ICAM2hi CD11bhi	FACSAria
+GSM1136130	GSE37448	Monocytes	Myeloid		Mo.6+2-.BL#2	Mouse	C57BL/6	NA	6 WEEKS	Blood	B220, CD3, Nk1.1, Ly6G	NA		CD115+ Ly6C+ MHCII+	Dissection/trimming
+GSM1136131	GSE37448	Monocytes	Myeloid		Mo.6+2-.BL#3	Mouse	C57BL/6	NA	6 WEEKS	Blood	B220, CD3, Nk1.1, Ly6G	NA		CD115+ Ly6C+ MHCII+	Dissection/trimming
+GSM1136125	GSE37448	Monocytes	Myeloid		Mo.6+2+.BL#1	Mouse	C57BL/6	NA	6 WEEKS	Blood	B220, CD3, Nk1.1, Ly6G	NA		CD115+ Ly6C+ MHCII+	FACSAria
+GSM1136126	GSE37448	Monocytes	Myeloid		Mo.6+2+.MLN#1	Mouse	C57BL/6	NA	6 WEEKS	Lymph Node (Mesenteric)	B220, CD3, Nk1.1	NA		CD11b+ Ly6C+ MHCII+ CD64+ CD11cint/lo	FACSAria
+GSM1136127	GSE37448	Monocytes	Myeloid		Mo.6+2+.SLN#1	Mouse	C57BL/6	NA	6 WEEKS	Lymph Node (Skin-Draining)	B220, CD3, Nk1.1	NA		CD11b+ CD64+ Ly6C+ MHCII+ CD11cint/lo	FACSAria
+GSM1136128	GSE37448	Monocytes	Myeloid		Mo.6+2+.SLN#2	Mouse	C57BL/6	NA	6 WEEKS	Lymph Node (Skin-Draining)	B220, CD3, Nk1.1	NA		CD11b+ CD64+ Ly6C+ MHCII+ CD11cint/lo	Dissection/trimming
+GSM1136129	GSE37448	Monocytes	Myeloid		Mo.6+2+.SLN#3	Mouse	C57BL/6	NA	6 WEEKS	Lymph Node (Skin-Draining)	B220, CD3, Nk1.1	NA		CD11b+ CD64+ Ly6C+ MHCII+ CD11cint/lo	Dissection/trimming
+GSM1398483	GSE37448	Monocytes	Myeloid		Mo.Lu#1	Mouse	C57BL/6	Male	6 WEEKS	Lung	NULL	NA		MertK- CD11cint/lo CD11b+ CD64+ Ly6C+ MHCII+	FACSAria
+GSM1398484	GSE37448	Monocytes	Myeloid		Mo.Lu#2	Mouse	C57BL/6	Male	6 WEEKS	Lung	NULL	NA		MertK- CD11cint/lo CD11b+ CD64+ Ly6C+ MHCII+	FACSAria
+GSM1398485	GSE37448	Monocytes	Myeloid		Mo.Lu#3	Mouse	C57BL/6	Male	6 WEEKS	Lung	NULL	NA		MertK- CD11cint/lo CD11b+ CD64+ Ly6C+ MHCII+	FACSAria
+GSM1585336	GSE37448	NK cells	T lineage		NK.CD127-.SI#1	Mouse	B6 RORgt-GFP	Male	52 DAYS	Small Intestine (Lamina Propria)	CD3/CD19/7aad	NA		CD45+ NKp46+ RORgt- CD127- NK1.1+	FACSAria
+GSM1585337	GSE37448	NK cells	T lineage		NK.CD127-.SI#3	Mouse	B6 RORgt-GFP	Male	46 DAYS	Small Intestine (Lamina Propria)	CD3/CD19/7aad	NA		CD45+ NKp46+ RORgt- CD127- NK1.1+	FACSAria
+GSM1585330	GSE37448	NK cells	T lineage		NK.CD127-.Sp#1	Mouse	C57BL/6	Male	10 WEEKS	Spleen	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ CD127-	FACSAria
+GSM1585331	GSE37448	NK cells	T lineage		NK.CD127-.Sp#2	Mouse	C57BL/6	Male	9 WEEKS	Spleen	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ CD127-	FACSAria
+GSM1585332	GSE37448	NK cells	T lineage		NK.CD127-.Sp#3	Mouse	C57BL/6	Male	7 WEEKS	Spleen	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ CD127-	FACSAria
+GSM1585333	GSE37448	NK cells	T lineage		NK.CD49b+.Lv#1	Mouse	C57BL/6	Male	10 WEEKS	Liver	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ DX5+ TRAIL-	FACSAria
+GSM1585334	GSE37448	NK cells	T lineage		NK.CD49b+.Lv#2	Mouse	C57BL/6	Male	9 WEEKS	Liver	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ DX5+ TRAIL-	FACSAria
+GSM1585335	GSE37448	NK cells	T lineage		NK.CD49b+.Lv#3	Mouse	C57BL/6	Male	10 WEEKS	Liver	CD3, CD19, 7-AAD	NA		CD45+ CD3- CD19- NKp46+ NK1.1+ DX5+ TRAIL-	FACSAria
+GSM5726120	GSE37448	NK cells	T lineage		SG.NK.CD49a-#2	Mouse	B6	Male	6 WEEKS	Whole Tissue	CD3, CD19, F4/80, 7AAD	NA		NK1.1+ CD49a-	FACSAria
+GSM5726116	GSE37448	NK cells	T lineage		SG.NK.CD49a+#1	Mouse	B6	Male	6 WEEKS	Whole Tissue	CD3, CD19, F4/80, 7AAD	NA		NK1.1+ CD49a+	FACSAria
+GSM5726117	GSE37448	NK cells	T lineage		SG.NK.CD49a+#2	Mouse	B6	Male	6 WEEKS	Whole Tissue	CD3, CD19, F4/80, 7AAD	NA		NK1.1+ CD49a+	FACSAria
+GSM5726118	GSE37448	NK cells	T lineage		SG.NK.CD49a+#3	Mouse	B6	Male	6 WEEKS	Whole Tissue	CD3, CD19, F4/80, 7AAD	NA		NK1.1+ CD49a+	FACSAria
+GSM5726119	GSE37448	NK cells	T lineage		SG.NK.CD49a+#4	Mouse	B6	Male	6 WEEKS	Whole Tissue	CD3, CD19, F4/80, 7AAD	NA		NK1.1+ CD49a+	FACSAria
+GSM2112461	GSE37448	CD4 T cells	T lineage		T.4Eff49d+11a+.Sp.d8.LCMV#1	Mouse	C57BL/6J	Male	6 WEEKS	Spleen	B220- GR-1- MHCII- NK1.1-	NA		CD4+ CD44+ CD11a+ CD49d+	FACSAria
+GSM2112462	GSE37448	CD4 T cells	T lineage		T.4Eff49d+11a+.Sp.d8.LCMV#2	Mouse	C57BL/6J	Male	6 WEEKS	Spleen	B220- GR-1- MHCII- NK1.1-	NA		CD4+ CD44+ CD11a+ CD49d+	FACSAria
+GSM2112463	GSE37448	CD4 T cells	T lineage		T.4Mem49d+11a+.Sp.d30.LCMV#1	Mouse	C57BL/6J	Male	6 WEEKS	Spleen	B220- GR-1- MHCII- NK1.1-	NA		CD4+ CD44+ CD11a+ CD49d+	FACSAria
+GSM2112464	GSE37448	CD4 T cells	T lineage		T.4Mem49d+11a+.Sp.d30.LCMV#2	Mouse	C57BL/6J	Male	6 WEEKS	Spleen	B220- GR-1- MHCII- NK1.1-	NA		CD4+ CD44+ CD11a+ CD49d+	FACSAria
+GSM2112465	GSE37448	CD4 T cells	T lineage		T.4Nve44-49d-11a-.Sp#1	Mouse	C57BL/6J	Male	6 WEEKS	Spleen	B220- GR-1- MHCII- NK1.1-	NA		CD4+ CD44-	FACSAria
+GSM2112466	GSE37448	CD4 T cells	T lineage		T.4Nve44-49d-11a-.Sp#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen	B220- LY-6G- NK1.1- MHCII-	NA		CD4+ CD44-	FACSAria
+GSM2112470	GSE37448	CD8 T cells	T lineage		T.8Eff.Tbet-.Sp.OT1.d6LisOVA#1	Mouse	B6	Male	45 DAYS	Spleen	B220- Gr-1- CD4- MHCII- NK1.1-	NA		CD45.1+ CD45.2- CD8+	FACSAria
+GSM2112471	GSE37448	CD8 T cells	T lineage		T.8Eff.Tbet-.Sp.OT1.d6LisOVA#2	Mouse	B6	Male	45 DAYS	Spleen	B220- Gr-1- CD4- MHCII- NK1.1-	NA		CD45.1+ CD45.2- CD8+	FACSAria
+GSM2112472	GSE37448	CD8 T cells	T lineage		T.8Eff.Tbet-.Sp.OT1.d6LisOVA#3	Mouse	B6	Male	45 DAYS	Spleen	B220- Gr-1- CD4- MHCII- NK1.1-	NA		CD45.1+ CD45.2- CD8+	FACSAria
+GSM2112467	GSE37448	CD8 T cells	T lineage		T.8Eff.Tbet+.Sp.OT1.d6LisOVA#1	Mouse	B6	Male	45 DAYS	Spleen	B220- Gr-1- CD4- MHCII- NK1.1-	NA		CD45.2+ CD45.1- CD8+	FACSAria
+GSM2112468	GSE37448	CD8 T cells	T lineage		T.8Eff.Tbet+.Sp.OT1.d6LisOVA#2	Mouse	B6	Male	45 DAYS	Spleen	B220- Gr-1- CD4- MHCII- NK1.1-	NA		CD45.2+ CD45.1- CD8+	FACSAria
+GSM2112469	GSE37448	CD8 T cells	T lineage		T.8Eff.Tbet+.Sp.OT1.d6LisOVA#3	Mouse	B6	Male	45 DAYS	Spleen	B220- Gr-1- CD4- MHCII- NK1.1-	NA		CD45.2+ CD45.1- CD8+	FACSAria
+GSM2112473	GSE37448	CD8 T cells	T lineage		T.8EffKLRG1+CD127-.Sp.d8.LisOVA#2	Mouse	B6	Male	45 DAYS	Spleen	B220-Gr-1- MHCII- NK1.1- CD4-	NA		CD8+ CD45.1+ KLRG1+ CD127-	FACSAria
+GSM2112474	GSE37448	CD8 T cells	T lineage		T.8EffKLRG1+CD127-.Sp.d8.LisOVA#3	Mouse	B6	Male	45 DAYS	Spleen	B220-Gr-1- MHCII- NK1.1- CD4-	NA		CD8+ CD45.1+ KLRG1+ CD127-	FACSAria
+GSM2112475	GSE37448	CD8 T cells	T lineage		T.8MemKLRG1-CD127+.Sp.d8.LisOVA#1	Mouse	B6	Male	45 DAYS	Spleen	B220-Gr-1- MHCII- NK1.1- CD4-	NA		CD8+ CD45.1+ KLRG1- CD127+	FACSAria
+GSM2112476	GSE37448	CD8 T cells	T lineage		T.8MemKLRG1-CD127+.Sp.d8.LisOVA#2	Mouse	B6	Male	45 DAYS	Spleen	B220-Gr-1- MHCII- NK1.1- CD4-	NA		CD8+ CD45.1+ KLRG1- CD127+	FACSAria
+GSM2112477	GSE37448	CD8 T cells	T lineage		T.8MemKLRG1-CD127+.Sp.d8.LisOVA#3	Mouse	B6	Male	45 DAYS	Spleen	B220-Gr-1- MHCII- NK1.1- CD4-	NA		CD8+ CD45.1+ KLRG1- CD127+	FACSAria
+GSM1282112	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP.69-.e17.Th.v2#1	Mouse	C57BL/6J	Mixed	5 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69-	Dissection / Trimming
+GSM1282113	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP.69-.e17.Th.v2#2	Mouse	C57BL/6J	Mixed	5 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69-	Dissection / Trimming
+GSM1282114	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP.69-.e17.Th.v2#3	Mouse	C57BL/6J	Mixed	5 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69-	Dissection / Trimming
+GSM1282115	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP.Th.v2#1	Mouse	NA	Male	6 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69-	FACSAria
+GSM1282116	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP.Th.v2#2	Mouse	NA	Male	6 WEEKS	Thymus		NA		CD4+ CD8+ CD69-	FACSAria
+GSM1282117	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP.Th.v2#3	Mouse	NA	Male	6 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69-	FACSAria
+GSM1282118	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP69+.Th.v2#1	Mouse	NA	Male	6 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69+	FACSAria
+GSM1282119	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP69+.Th.v2#2	Mouse	NA	Male	6 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69+	FACSAria
+GSM1282120	GSE37448	DP T cells	Pre/Prog/Stem Lineages		T.DP69+.Th.v2#3	Mouse	NA	Male	6 WEEKS	Thymus	NULL	NA		CD4+ CD8+ CD69+	FACSAria
+GSM920648	GSE37448	gd T cells	T lineage		Tgd.vg2+24ahi.e17.Th.v2#1	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1-	NA		TCRd+ Vg2+ CD24hi	Dissection/trimming
+GSM920649	GSE37448	gd T cells	T lineage		Tgd.vg2+24ahi.e17.Th.v2#2	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1-	NA		TCRd+ Vg2+ CD24hi	Dissection/trimming
+GSM920650	GSE37448	gd T cells	T lineage		Tgd.vg2+24ahi.e17.Th.v2#3	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1-	NA		TCRd+ Vg2+ CD24hi	Dissection/trimming
+GSM920651	GSE37448	gd T cells	T lineage		Tgd.vg4+24ahi.e17.Th#1	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1- Vg3- Vg2- Vg1.1- Vg5-	NA		TCRd+ CD24hi	Dissection/trimming
+GSM920652	GSE37448	gd T cells	T lineage		Tgd.vg4+24ahi.e17.Th#2	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1- Vg3- Vg2- Vg1.1- Vg5-	NA		TCRd+ CD24hi	Dissection/trimming
+GSM920653	GSE37448	gd T cells	T lineage		Tgd.vg4+24ahi.e17.Th#3	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1- Vg3- Vg2- Vg1.1- Vg5-	NA		TCRd+ CD24hi	Dissection/trimming
+GSM920654	GSE37448	gd T cells	T lineage		Tgd.vg4+24alo.e17.Th#1	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1- Vg2- Vg3- Vg1.1- Vg5-	NA		TCRd+ CD24lo	Dissection/trimming
+GSM920655	GSE37448	gd T cells	T lineage		Tgd.vg4+24alo.e17.Th#2	Mouse	C57BL/6J	NA	5 WEEKS	thymus	CD4- CD8- NK1.1- Vg3- Vg2- Vg1.1- Vg5-	NA		TCRd+ CD24lo	Dissection/trimming

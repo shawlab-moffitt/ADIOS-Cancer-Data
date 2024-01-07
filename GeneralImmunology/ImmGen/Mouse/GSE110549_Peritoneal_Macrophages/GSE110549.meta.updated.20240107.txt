@@ -1,0 +1,10 @@
+SampleID	Study	MajorCellType	Major Lineage	Cell Family	GEOName	Organism	GeneticBackground	Sex	AGE	Tissue Source	Exclusion Marker	Treatment	CellType	Phenotype_Marker	Separation Method
+GSM2997670	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.IFNa.2hr.PC_1	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		8000 U IFNg	Peritoneal cavity macrophages	F4/80+ ICAM2+	FACSAria
+GSM2997671	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.IFNa.2hr.PC_2	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		8000 U IFNg	Peritoneal cavity macrophages	F4/80+ ICAM2+	FACSAria
+GSM2997672	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.IFNa.2hr.PC_3	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		10000 U IFNa	Peritoneal cavity macrophages	F4/80+ ICAM2+	FACSAria
+GSM2997673	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.IFNa.2hr.PC_4	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		10000 U IFNa	Peritoneal cavity macrophages	F4/80+ ICAM2+	FACSAria
+GSM2997674	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.IFNg.2hr.PC_1	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		10000 U IFNa	Peritoneal cavity macrophages	F4/80+ ICAM2+	FACSAria
+GSM2997675	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.IFNg.2hr.PC_2	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		10000 U IFNa	Peritoneal cavity macrophages	F4/80+ ICAM2+	FACSAria
+GSM2997676	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.PC.SPF_1	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		No treatment	Peritoneal cavity macrophages	F4/80+	FACSAria
+GSM2997677	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.PC.SPF_2	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		No treatment	Peritoneal cavity macrophages	F4/80+	FACSAria
+GSM2997678	GSE110549	Macrophages	Myeloid	F480_ICAM2 Macrophage	MF.PC.SPF_3	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity		No treatment	Peritoneal cavity macrophages	F4/80+	FACSAria
