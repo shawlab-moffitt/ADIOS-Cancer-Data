@@ -1,0 +1,53 @@
+SampleID	Study	MajorCellType	Major Lineage	Cell Family	GEOName	Organism	GeneticBackground	Sex	AGE	Tissue Source	Exclusion Marker	Treatment	CellType	Phenotype_Marker	Separation Method
+GSM1945072	GSE75202	B cells	B lineage		B1ab.PC.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+ CD43+ CD5+	Dissection / Trimming
+GSM1945044	GSE75202	B cells	B lineage		B1ab.PC.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+ CD5+ CD43+	Dissection / Trimming
+GSM1945045	GSE75202	B cells	B lineage		B1ab.PC.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+ CD5+ CD43+	Dissection / Trimming
+GSM1945083	GSE75202	B cells	B lineage		B1ab.PC.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+ CD43+ CD3+	Dissection / Trimming
+GSM1945074	GSE75202	B cells	B lineage		BB.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+ IGM+	Dissection / Trimming
+GSM1945075	GSE75202	B cells	B lineage		BB.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+ IGM+	Dissection / Trimming
+GSM1945040	GSE75202	B cells	B lineage		BB.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+	Dissection / Trimming
+GSM1945041	GSE75202	B cells	B lineage		BB.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+	Dissection / Trimming
+GSM1945084	GSE75202	B cells	B lineage		BB.SP.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			B Cell	CD19+ Igm+	Dissection / Trimming
+GSM1945070	GSE75202	Dendritic Cells	Myeloid		DC.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Dendritic Cell	CD11c+ Flt3+	Dissection / Trimming
+GSM1945071	GSE75202	Dendritic Cells	Myeloid		DC.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Dendritic Cell	CD11c+ Flt3+	Dissection / Trimming
+GSM1945054	GSE75202	Dendritic Cells	Myeloid		DC.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Dendritic Cell	CD11c+ FTL3+	Dissection / Trimming
+GSM1945055	GSE75202	Dendritic Cells	Myeloid		DC.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Dendritic Cell	CD11c+ FTL3+	Dissection / Trimming
+GSM1945082	GSE75202	Dendritic Cells	Myeloid		DC.SP.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Dendritic Cell	CD11c+ FLT3+	Dissection / Trimming
+GSM1945068	GSE75202	Granulocytes	Myeloid		GN.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Neutrophil	Ly6G+	Dissection / Trimming
+GSM1945069	GSE75202	Granulocytes	Myeloid		GN.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Neutrophil	Ly6G+	Dissection / Trimming
+GSM1945042	GSE75202	Granulocytes	Myeloid		GN.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Neutrophil	ly6G+	Dissection / Trimming
+GSM1945043	GSE75202	Granulocytes	Myeloid		GN.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			Neutrophil	ly6G+	Dissection / Trimming
+GSM1945073	GSE75202	Macrophages	Myeloid		MF.PC.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity			Macrophage	F4/80+	Dissection / Trimming
+GSM1945038	GSE75202	Macrophages	Myeloid		MF.PC.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity			Macrophage	F4/80+	Dissection / Trimming
+GSM1945039	GSE75202	Macrophages	Myeloid		MF.PC.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity			Macrophage	F4/80+	Dissection / Trimming
+GSM1945085	GSE75202	Macrophages	Myeloid		MF.PC.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Peritoneal Cavity			Macrophage	F4/80+	Dissection / Trimming
+GSM1945056	GSE75202	NK cells	T lineage		NK.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NK Cell	NK1.1+	Dissection / Trimming
+GSM1945057	GSE75202	NK cells	T lineage		NK.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NK Cell	NK1.1+	Dissection / Trimming
+GSM1945050	GSE75202	NK cells	T lineage		NK.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NK Cell	NK1.1+ TCRb-	Dissection / Trimming
+GSM1945051	GSE75202	NK cells	T lineage		NK.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NK Cell	NK1.1+ TCRb-	Dissection / Trimming
+GSM1945076	GSE75202	NK cells	T lineage		NK.SP.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NK Cell	NK1.1+	Dissection / Trimming
+GSM1945058	GSE75202	NKT cells	T lineage		NKT.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NKT Cell	NK1.1+ TCRb+	Dissection / Trimming
+GSM1945059	GSE75202	NKT cells	T lineage		NKT.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NKT Cell	NK1.1+ TCRb+	Dissection / Trimming
+GSM1945052	GSE75202	NKT cells	T lineage		NKT.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NKT Cell	Nk1.1+	Dissection / Trimming
+GSM1945053	GSE75202	NKT cells	T lineage		NKT.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NKT Cell	Nk1.1+	Dissection / Trimming
+GSM1945077	GSE75202	NKT cells	T lineage		NKT.SP.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			NKT Cell	NK1.1+ TCRB+	Dissection / Trimming
+GSM1945060	GSE75202	CD4 T cells	T lineage		T4.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TConv Cell	CD4+	Dissection / Trimming
+GSM1945061	GSE75202	CD4 T cells	T lineage		T4.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TConv Cell	CD4+	Dissection / Trimming
+GSM1945034	GSE75202	CD4 T cells	T lineage		T4.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TConv Cell	CD4+	Dissection / Trimming
+GSM1945035	GSE75202	CD4 T cells	T lineage		T4.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TConv Cell	CD4+	Dissection / Trimming
+GSM1945078	GSE75202	CD4 T cells	T lineage		T4.SP.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TConv Cell	CD4+	Dissection / Trimming
+GSM1945062	GSE75202	CD8 T cells	T lineage		T8.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD8 T Cell	CD8+	Dissection / Trimming
+GSM1945063	GSE75202	CD8 T cells	T lineage		T8.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD8 T Cell	CD8+	Dissection / Trimming
+GSM1945036	GSE75202	CD8 T cells	T lineage		T8.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Blood			CD8 T Cell	CD8+	Dissection / Trimming
+GSM1945037	GSE75202	CD8 T cells	T lineage		T8.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Blood			CD8 T Cell	CD8+	Dissection / Trimming
+GSM1945079	GSE75202	CD8 T cells	T lineage		T8.SP.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD8 T Cell	CD8+	Dissection / Trimming
+GSM1945066	GSE75202	gd T cells	T lineage		Tgd.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			gdT Cell	TCRgd+	Dissection / Trimming
+GSM1945067	GSE75202	gd T cells	T lineage		Tgd.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			gdT Cell	TCRgd+	Dissection / Trimming
+GSM1945048	GSE75202	gd T cells	T lineage		Tgd.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			gdT Cell	gdT+ TCRB-	Dissection / Trimming
+GSM1945049	GSE75202	gd T cells	T lineage		Tgd.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			gdT Cell	gdT+ TCRB-	Dissection / Trimming
+GSM1945081	GSE75202	gd T cells	T lineage		Tgd.SPF.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			gdT Cell	TCRgd+	Dissection / Trimming
+GSM1945064	GSE75202	Treg cells	T lineage		Treg.SP.2h.IFN#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TReg Cell	CD4+ CD25+	Dissection / Trimming
+GSM1945065	GSE75202	Treg cells	T lineage		Treg.SP.2h.IFN#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TReg Cell	CD4+ CD25+	Dissection / Trimming
+GSM1945046	GSE75202	Treg cells	T lineage		Treg.SP.SPF#1	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TReg Cell	CD25+ CD4+	Dissection / Trimming
+GSM1945047	GSE75202	Treg cells	T lineage		Treg.SP.SPF#2	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TReg Cell	CD25+ CD4+	Dissection / Trimming
+GSM1945080	GSE75202	Treg cells	T lineage		Treg.SP.SPF#3	Mouse	C57BL/6	Male	6 WEEKS	Spleen			CD4 TReg Cell	CD4+ CD25+	Dissection / Trimming
