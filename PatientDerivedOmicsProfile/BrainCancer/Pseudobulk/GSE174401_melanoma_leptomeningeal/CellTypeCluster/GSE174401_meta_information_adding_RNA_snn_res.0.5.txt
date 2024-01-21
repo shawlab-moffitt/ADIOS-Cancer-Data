@@ -1,4 +1,4 @@
-"cnames"	""	""	""
+"SampleID"	"PatientID"	"CellType"	"SeuratCluster"
 "g1_Tcells_0"	"g1"	"Tcells"	"0"
 "g1_Tcells_6"	"g1"	"Tcells"	"6"
 "g1_Tcells_9"	"g1"	"Tcells"	"9"
