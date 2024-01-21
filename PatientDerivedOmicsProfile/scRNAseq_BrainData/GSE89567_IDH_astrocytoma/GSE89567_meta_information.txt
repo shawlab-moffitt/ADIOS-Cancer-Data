@@ -1,4 +1,0 @@
-"cnames"	""
-"Myeloid"	"Myeloid"
-"Stroma"	"Stroma"
-"Tumor"	"Tumor"
