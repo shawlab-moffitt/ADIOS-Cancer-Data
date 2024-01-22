@@ -1,4 +1,4 @@
-"SampleID"	"PatientID"	"CellType"	
+"SampleID"	"PatientID"	"CellType"
 "X1001000010_Myeloid"	"X1001000010"	"Myeloid"
 "X1001000010_Stroma"	"X1001000010"	"Stroma"
 "X1001000010_Tumor"	"X1001000010"	"Tumor"
